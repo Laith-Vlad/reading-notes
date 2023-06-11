@@ -8,9 +8,9 @@ This website contains my reading notes for different courses on software develop
 1. 
 
 ## Code 301 - Intermediate Software Development
-1. 
+1. [Preparation: The Growth Mindset](preparation-growth-mindset.md)
 
 ## Code 401 - Advanced Software Development
-1. [Preparation: The Growth Mindset](preparation-growth-mindset.md)
+1. 
 
 *Created by [laith](https://github.com/laith-vlad)*

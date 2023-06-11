@@ -12,7 +12,8 @@ This website contains my reading notes for different courses on software develop
 
 ## Code 401 - Advanced Software Development
 1. [Preparation: The Growth Mindset](preparation-growth-mindset.md)
-2. [Reading Node.js Ecosystem](reading1a.md)
-3. [reading Express TDD CD\CI npm](reading1b.md)
+2. [Reading Node.js Ecosystem](reading-nodejs-ecosystem.md)
+3. [Reading Express TDD CD/CI npm](reading-express-tdd-cd-ci-npm.md)
+
 
 *Created by [laith](https://github.com/laith-vlad)*

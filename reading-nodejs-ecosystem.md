@@ -20,6 +20,7 @@ When we say that Node.js is a JavaScript runtime, it means that it provides a sp
 Node.js is used by developers to do many things, like creating websites, building tools that help with tasks on computers, making real-time applications like chat programs, and creating APIs that let different applications talk to each other. It's a versatile tool that helps developers bring their JavaScript skills beyond just web development.
 **What am i looking forward too??**
 I am looking forward to learn AWS API  and to get better at interviews.
-
+## Thing i want to know 
+I want to know how to make transactions and make private profiles.i guess middleware will help witht that.
 **What am i looking forward to learn from the readme fiel??**
 To module export and import\requere and to do  Continuous Integration and Deployment.

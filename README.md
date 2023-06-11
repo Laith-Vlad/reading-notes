@@ -11,6 +11,6 @@ This website contains my reading notes for different courses on software develop
 1. 
 
 ## Code 401 - Advanced Software Development
-1. [Preparation: The Growth Mindset](code401/preparation-growth-mindset.md)
+1. [Preparation: The Growth Mindset](preparation-growth-mindset.md)
 
 *Created by [laith](https://github.com/laith-vlad)*

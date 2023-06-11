@@ -14,6 +14,7 @@ This website contains my reading notes for different courses on software develop
 1. [Preparation: The Growth Mindset](preparation-growth-mindset.md)
 2. [Reading Node.js Ecosystem](reading-nodejs-ecosystem.md)
 3. [Reading Express TDD CD/CI npm](reading-express-tdd-cd-ci-npm.md)
+4. [Data structure and algorithms](data-structe-algorithims.md)
 
 
 *Created by [laith](https://github.com/laith-vlad)*

@@ -11,8 +11,8 @@ This website contains my reading notes for different courses on software develop
 1. 
 
 ## Code 401 - Advanced Software Development
-
-
+### Preparation Class
+# Code 401 - Advanced Software Development
 
 | Class    | Reading Topic                                                   |
 |----------|-----------------------------------------------------------------|
@@ -21,6 +21,6 @@ This website contains my reading notes for different courses on software develop
 | Class 03 | [Reading Express TDD CD/CI npm](./401-notess/class-01/reading-express-tdd-cd-ci-npm.md)                     |
 | Class 04 | [Data structure and algorithms](./401-notess/class-01/data-structe-algorithims.md)                          |
 | Class 05 | [Express REST API](./401-notess/class-02/Express-REST-API-PREP.md)                             |
-| Class 06 | Linked lists           
+| Class 06 | [Linked lists](./401-notess/class-03/linkedlist.md)               
 
 *Created by [laith](https://github.com/laith-vlad)*

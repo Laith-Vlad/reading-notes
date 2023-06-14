@@ -11,27 +11,16 @@ This website contains my reading notes for different courses on software develop
 1. 
 
 ## Code 401 - Advanced Software Development
-### Preparation Class
-| No. | Topic                                   | Link                                                                             |
-| --- | -------------------------------------- | -------------------------------------------------------------------------------- |
-| 1.  | Preparation: The Growth Mindset         | [Go to](./401-notess/prep-class/preparation-growth-mindset.md)                     |
 
-### Class 01
-| No. | Topic                                   | Link                                                                             |
-| --- | -------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.  | Reading Node.js Ecosystem               | [Go to](./401-notess/class-01/reading-nodejs-ecosystem.md)                          |
-| 3.  | Reading Express TDD CD/CI npm           | [Go to](./401-notess/class-01/reading-express-tdd-cd-ci-npm.md)                     |
-| 4.  | Data structure and algorithms           | [Go to](./401-notess/class-01/data-structe-algorithims.md)                          |
 
-### Class 02
-| No. | Topic                                   | Link                                                                             |
-| --- | -------------------------------------- | -------------------------------------------------------------------------------- |
-| 5.  | Express REST API                        | [Go to](./401-notess/class-02/Express-REST-API-PREP.md)                             |
 
-### Class 03
-| No. | Topic                                   | Link                                                                             |
-| --- | -------------------------------------- | -------------------------------------------------------------------------------- |
-| 6.  | Linked lists                            | [Go to](./401-notess/class-03/linkedlist.md)                                        |
-
+| Class    | Reading Topic                                                   |
+|----------|-----------------------------------------------------------------|
+| Class 01 | [Preparation: The Growth Mindset](./401-notess/prep-class/preparation-growth-mindset.md)                     |
+| Class 02 | [Reading Node.js Ecosystem](./401-notess/class-01/reading-nodejs-ecosystem.md)                          |
+| Class 03 | [Reading Express TDD CD/CI npm](./401-notess/class-01/reading-express-tdd-cd-ci-npm.md)                     |
+| Class 04 | [Data structure and algorithms](./401-notess/class-01/data-structe-algorithims.md)                          |
+| Class 05 | [Express REST API](./401-notess/class-02/Express-REST-API-PREP.md)                             |
+| Class 06 | Linked lists           
 
 *Created by [laith](https://github.com/laith-vlad)*

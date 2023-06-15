@@ -14,45 +14,13 @@ This website contains my reading notes for different courses on software develop
 ### Preparation Class
 # Code 401 - Advanced Software Development
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>Class</th>
-    <th>Reading Topic</th>
-  </tr>
-  <tr>
-    <td>Class 01</td>
-    <td><a href="./401-notess/prep-class/preparation-growth-mindset.md">Preparation: The Growth Mindset</a></td>
-  </tr>
-  <tr>
-    <td>Class 02</td>
-    <td><a href="./401-notess/class-01/reading-nodejs-ecosystem.md">Reading Node.js Ecosystem</a></td>
-  </tr>
-  <tr>
-    <td>Class 03</td>
-    <td><a href="./401-notess/class-01/reading-express-tdd-cd-ci-npm.md">Reading Express TDD CD/CI npm</a></td>
-  </tr>
-  <tr>
-    <td>Class 04</td>
-    <td><a href="./401-notess/class-01/data-structe-algorithims.md">Data structure and algorithms</a></td>
-  </tr>
-  <tr>
-    <td>Class 05</td>
-    <td><a href="./401-notess/class-02/Express-REST-API-PREP.md">Express REST API</a></td>
-  </tr>
-  <tr>
-    <td>Class 06</td>
-    <td><a href="./401-notess/class-03/linkedlist.md">Linked lists</a></td>
-  </tr>
-</table>
+| Class    | Reading Topic                                                   |
+|----------|-----------------------------------------------------------------|
+| Class 01 | [Preparation: The Growth Mindset](./401-notess/prep-class/preparation-growth-mindset.md)                     |
+| Class 02 | [Reading Node.js Ecosystem](./401-notess/class-01/reading-nodejs-ecosystem.md)                          |
+| Class 03 | [Reading Express TDD CD/CI npm](./401-notess/class-01/reading-express-tdd-cd-ci-npm.md)                     |
+| Class 04 | [Data structure and algorithms](./401-notess/class-01/data-structe-algorithims.md)                          |
+| Class 05 | [Express REST API](./401-notess/class-02/Express-REST-API-PREP.md)                             |
+| Class 06 | [Linked lists](./401-notess/class-03/linkedlist.md)               
 
 *Created by [laith](https://github.com/laith-vlad)*

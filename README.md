@@ -23,7 +23,7 @@ This website contains my reading notes for different courses on software develop
 | Class 05 | [Express REST API](./401-notess/class-02/Express-REST-API-PREP.md)                             |
 | Class 06 | [Linked lists](./401-notess/class-03/linkedlist.md)               
 | Class 06 | [SQL vs NoSQL](./401-notess/class-05.md)             
-| Class 07 | Authintication](./401-notess/auth.md)           |    
+| Class 07 | [Authintication](./401-notess/auth.md)           |    
 
 
 *Created by [laith](https://github.com/laith-vlad)*

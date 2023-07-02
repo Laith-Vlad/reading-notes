@@ -24,7 +24,7 @@ This website contains my reading notes for different courses on software develop
 | Class 06 | [Linked lists](./401-notess/class-03/linkedlist.md)               
 
 | Class 07 | [SQL vs NoSQL](./401-notess/class-05.md)                     |
-| Class 07 | [Authintication](./401-notess/auth.md)                             |    
+| Class 07.2 | [Authintication](./401-notess/auth.md)                             |    
 | Class 07.5 | [Auth bearer](./401-notess/class07/readme.md)                         |                   
 | Class 08 | [RBAC](./401-notess/class-08/readme.md)                                    |
             

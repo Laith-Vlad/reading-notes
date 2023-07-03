@@ -26,6 +26,7 @@ This website contains my reading notes for different courses on software develop
 | Class 07.2 | [Authentication](./401-notess/auth.md)                             |    
 | Class 07.5 | [Bearer Authentication](./401-notess/class07/readme.md)                         |                   
 | Class 08 | [RBAC](./401-notess/class-08/readme.md)                                    |
+| Class 08 | [RBAC](./401-notess/class09.readme)                                    |
 
             
     

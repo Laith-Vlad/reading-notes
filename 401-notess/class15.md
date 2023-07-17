@@ -1,0 +1,2 @@
+- stock market  where it makes fake stock market and keeps reacting to itself randomly
+-  crypto currency market  where it makes fake stock market and keeps reacting to itself randomly 

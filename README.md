@@ -33,6 +33,8 @@ This website contains my reading notes for different courses on software develop
 | Class 013 | [websocket and socket.io chat example](./401-notess/class13.md)                                    |
 | Class 013 | [Tree data structure](./401-notess/class14.md)                                    |
 | Class 013 | [project ideas 2](./401-notess/class15.md)                                    |
+| Class 013 | [EC2 AWS](./401-notess/class16.md)                                    |
+
 
             
     
